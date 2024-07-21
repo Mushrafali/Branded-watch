@@ -1,4 +1,4 @@
-# Explore the world of luxury WATCH on our WebApplication.
+# Explore the world of luxury WATCHS on our WebApplication.
 
 Project Title: Branded Watch Showcase
 
